@@ -1,1 +1,3 @@
 This is the development of the boat mission.
+
+This is a shiny new feature for boat mission.
